@@ -1,0 +1,11 @@
+{
+  "name": "typescript-parse-math",
+  "version": "1.0.0",
+  "description": "Parse mathematical expressions written in TypeScript types",
+  "main": "index.ts",
+  "author": "Kevin Deisz",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
