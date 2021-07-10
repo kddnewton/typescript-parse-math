@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Parse mathematical expressions written in TypeScript types",
   "main": "index.ts",
-  "author": "Kevin Deisz",
+  "author": "Kevin Newton",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.1.2"
